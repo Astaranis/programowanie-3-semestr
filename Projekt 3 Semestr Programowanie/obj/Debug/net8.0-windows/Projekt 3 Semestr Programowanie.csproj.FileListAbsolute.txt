@@ -1,0 +1,56 @@
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.exe
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.deps.json
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.runtimeconfig.json
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.pdb
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt_3_Semestr_Programowanie.Form1.resources
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt_3_Semestr_Programowanie.Okno_Logowania.resources
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt_3_Semestr_Programowanie.Properties.Resources.resources
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.csproj.GenerateResource.cache
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.AssemblyInfoInputs.cache
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.AssemblyInfo.cs
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.csproj.CoreCompileInputs.cache
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\refint\Projekt 3 Semestr Programowanie.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.pdb
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.genruntimeconfig.cache
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\ref\Projekt 3 Semestr Programowanie.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt_3_Semestr_Programowanie.Katalog.resources
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt_3_Semestr_Programowanie.Lista_Dostawcow.resources
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt_3_Semestr_Programowanie.Lista_zamowien.resources
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.csproj.AssemblyReference.cache
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Projekt C#\Projekt 3 Semestr Programowanie\Projekt 3 Semestr Programowanie\obj\Debug\net8.0-windows\Projekt 3 Semestr Programowanie.csproj.CopyComplete
